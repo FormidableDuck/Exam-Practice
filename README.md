@@ -1,2 +1,2 @@
 # DP600-Practice
-Link:- https://github.com/FormidableDuck/Exam-Practice/dp600%20exam%20prep.html
+Link:- https://formidableduck.github.io/Exam-Practice/dp600%20exam%20prep.html
